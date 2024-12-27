@@ -39,6 +39,9 @@ A collection of Jupyter notebooks documenting my journey learning ethical hackin
 
 7. [Ethical Hacking Methodology](6-stages-of-ethical-hacking.ipynb)
 
+8. [Passive Reconnisance](7-passive-recon.ipynb).
+   - Notes on Passive Recon, tools used and something intresting on www.gram.edu
+
 ## Usage
 
 These notebooks are meant to be viewed in Jupyter Notebook/Lab. They contain a mix of:
